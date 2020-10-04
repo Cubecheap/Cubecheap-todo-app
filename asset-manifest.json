@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cubecheap-todo-app/static/css/main.1ff72d68.chunk.css",
+    "main.js": "/Cubecheap-todo-app/static/js/main.931046f8.chunk.js",
+    "main.js.map": "/Cubecheap-todo-app/static/js/main.931046f8.chunk.js.map",
+    "runtime-main.js": "/Cubecheap-todo-app/static/js/runtime-main.966c79bc.js",
+    "runtime-main.js.map": "/Cubecheap-todo-app/static/js/runtime-main.966c79bc.js.map",
+    "static/js/2.c7758592.chunk.js": "/Cubecheap-todo-app/static/js/2.c7758592.chunk.js",
+    "static/js/2.c7758592.chunk.js.map": "/Cubecheap-todo-app/static/js/2.c7758592.chunk.js.map",
+    "index.html": "/Cubecheap-todo-app/index.html",
+    "precache-manifest.c89123b729fe0614b92596bf74cae854.js": "/Cubecheap-todo-app/precache-manifest.c89123b729fe0614b92596bf74cae854.js",
+    "service-worker.js": "/Cubecheap-todo-app/service-worker.js",
+    "static/css/main.1ff72d68.chunk.css.map": "/Cubecheap-todo-app/static/css/main.1ff72d68.chunk.css.map",
+    "static/js/2.c7758592.chunk.js.LICENSE.txt": "/Cubecheap-todo-app/static/js/2.c7758592.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.966c79bc.js",
+    "static/js/2.c7758592.chunk.js",
+    "static/css/main.1ff72d68.chunk.css",
+    "static/js/main.931046f8.chunk.js"
+  ]
+}
